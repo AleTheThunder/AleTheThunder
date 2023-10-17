@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Alexander Donner</h1>
 <h3 align="center">! keep coding and learn every time something new !</h3>
 
-- 🌱 I’m currently learning **machine learning and frontend**
+- 🌱 I’m currently learning **machine learning and frontend. I always create small projects to learn and improve my skills. Currenly I am workin on an streaming app, where to learn about Data Science.**
 
 - 💬 Ask me about **all kind of stuff :)**
 
