@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **all kind of stuff :)**
 
-- 📫 How to reach me **donneralexander@gmail.com**
+- 📫 How to reach me **donner22donner22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
